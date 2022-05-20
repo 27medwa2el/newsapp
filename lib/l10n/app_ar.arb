@@ -1,0 +1,13 @@
+{
+  "newsApp": "الأخبار",
+  "categories": "الأنواع",
+  "settings": "الإعدادات",
+  "business": "البورصة",
+  "sports": "الرياضة",
+  "science": "العلوم",
+  "health": "الصحة",
+  "politics": "السياسة",
+  "environment": "البيئة",
+  "chose": "اختر نوع الأخبار خاصتك",
+  "language": "اللغة"
+}
